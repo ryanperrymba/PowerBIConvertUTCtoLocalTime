@@ -12,3 +12,5 @@ This example code is not perfect, but it should provide a good framework for the
 It can adjust for DST based on published DST start and end dates in a support table.
 It can adjust for Time zones based on U.S. states, but time zones don't correlate 1:1 with states. 
 It cannot adjust to the local time zone of the viewing users machine, because it is run by the query engine, not the report rendering engine, and is only aware of the timezone of the viewing user's machine.  The query refresh happens on the server, so the datetime fields are adjusted before being presented to the report engine. 
+
+This example code is offered for educational purposes only, with no guarantees whatsoever.
