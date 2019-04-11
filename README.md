@@ -1,4 +1,4 @@
-# PowerBIConvertUTCtoLocalTime
+# Power BI Convert UTC to Local Time
 Query Functions to convert times from UTC to Local Time
 
 The purpose of this repositiory is to provide sample code for developers struggling with the different ways in which Power BI Desktop and Power BI handle time zone conversion.  
